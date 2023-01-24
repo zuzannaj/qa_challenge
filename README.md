@@ -20,4 +20,4 @@ Wystąpił komunikat o błędzie o treści "nie udało się dodać gracza" - pot
 
 <h1>TASK 2</h1>
 
-[Kliknij tu, żeby zobaczyć odpowiedzi na zadanie 2.]: https://www.drive.google.com/drive/folders/1pG9n1V_DkdCyHkMc7IYygyLAZD64oENQ?usp=sharing
+<https://drive.google.com/drive/folders/1pG9n1V_DkdCyHkMc7IYygyLAZD64oENQ?usp=sharing>
