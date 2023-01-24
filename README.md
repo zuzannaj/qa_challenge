@@ -17,3 +17,7 @@ Potrzebny regex dla maila - można tam wpisać cokolwiek, niekoniecznie w formac
 To samo z numerem telefonu, który przyjmuje też litery.
 Jako datę urodzenia można wybrać datę, która jeszcze się nie wydarzyła.
 Wystąpił komunikat o błędzie o treści "nie udało się dodać gracza" - potrzebny bardziej konkretny komunikat, sprecyzowany powód błędu i co trzeba poprawić.
+
+<h1>TASK 1</h1>
+
+[Kliknij tu, żeby zobaczyć odpowiedzi na zadanie 2.]: https://drive.google.com/drive/folders/1pG9n1V_DkdCyHkMc7IYygyLAZD64oENQ?usp=sharing
