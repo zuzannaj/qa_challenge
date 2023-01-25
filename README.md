@@ -27,7 +27,7 @@ Wystąpił komunikat o błędzie o treści "nie udało się dodać gracza" - pot
 <h2>Subtask 3</h2>
 
 The test cases are important for multiple reasons:
-⋅⋅*When we compare the test cases with the app requirements, we know which requierments have been fulfilled and tested.
-⋅⋅*Thanks to the list of test cases, we know which modules have been tested, which are stable, which need to be reworked, etc., and can assess the app's progress.
-⋅⋅*Test cases makes the testing process more efficient, because the tester knows, which scenarios have been already covered.
-⋅⋅*Test cases make it possible to smoothly come back to the testing process after a longer break or to reassign testing to another tester.
+*When we compare the test cases with the app requirements, we know which requierments have been fulfilled and tested.
+*Thanks to the list of test cases, we know which modules have been tested, which are stable, which need to be reworked, etc., and can assess the app's progress.
+*Test cases makes the testing process more efficient, because the tester knows, which scenarios have been already covered.
+*Test cases make it possible to smoothly come back to the testing process after a longer break or to reassign testing to another tester.
