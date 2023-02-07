@@ -31,3 +31,34 @@ The test cases are important for multiple reasons:
 2. Thanks to the list of test cases, we know which modules have been tested, which are stable, which need to be reworked, etc., and can assess the app's progress.
 3. Test cases makes the testing process more efficient, because the tester knows, which scenarios have been already covered.
 4. Test cases make it possible to smoothly come back to the testing process after a longer break or to reassign testing to another tester.
+
+<h1>TASK 4</h1>
+
+<h2>Subtask 1&2</h2>
+
+
+
+<h2>Subtask 3</h2>
+
+1. Do czego służy ta aplikacja? Jaki jest cel tej aplikacji?
+
+Aplikacja OLX.pl służy przede wszystkim do publikowania i korzystania z ogłoszeń sprzedażowych. Użytkownik może kupić różnego rodzaju produkty, które inni użytkownicy chcą sprzedać. W aplikacji można też przeglądać i publikować oferty pracy. Dostępna jest również kategoria "Dla Ukrainy", gdzie potrzebujące osoby dotknięte wojną w Ukrainie mogą znaleźć darmowe oferty różnego rodzaju produktów oraz nieruchomości.
+Niezalogowany użytkownik może przeglądać ogłoszenia. Zalogowany użytkownik również może przeglądać ogłoszenia, a oprócz tego może dodać ogłoszenia do obserwowanych, wysyłać wiadomości do autorów ogłoszeń oraz dodawać swoje ogłoszenia.
+
+2. Kto ma być użytkownikiem końcowym aplikacji?
+
+Użytkownikami aplikacji są osoby, które chcą sprzedać lub oddać posiadane produkty, a także osoby, które szukają produktów z drugiej ręki.
+Kolejnymi grupami użytkowników są osoby, które oferują pracę i osoby, które szukają pracy.
+Dodatkową grupą użytkowników są osoby, które chcą oddać przedmioty osobom dotkniętym wojną w Ukrainie, a także osoby dotknięte wojną w Ukrainie, które potrzebują tego typu pomocy materialnej.
+
+3. Czy według Ciebie aplikacja jest user-friendly?
+
+Aplikacja jest umiarkowanie user-friendly - pojawiają się mniejsze błędy w zakresie UX, na przykład błędy językowe w miejscach, które nie są kluczowe dla poprawnego funkcjonowania aplikacji. Najważniejsze elementy są przejrzyszte i zrozumiałe. W większości przypadków nie ma też potrzeby wykonywania nadmiarowych kliknięć.
+
+4. Jak byś usprawniła aplikację? Co byś w niej poprawiła. Czy masz jakiś pomysł na dodatkową funkcjonalność?
+
+Poprawiłabym wspomniane błędy językowe i inne bugi związane designem interfejsu użytkownika. Dodatkową funkcjonalnością mogłaby być zmiana języka aplikacji na ukraiński (ponieważ fragmenty aplikacji są przeznaczone właśnie dla osób z Ukrainy), a także na angielski (język, który najprawdopodobniej zna duża część osób, które nie mówią po polsku, a miałyby powód, żeby korzystać z polskiej aplikacji).
+
+5. Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej?
+
+Aplikacja natywna jest bardziej "zamknięta", w tym sensie, że najważniejsze funkcjonalności powinny być dostępne bez przechodzenia z aplikacji do przeglądarki i całej reszty internetu. Podczas testowania aplikacji natywnej warto więc zwrócić na to uwagę. W aplikacji internetowej, która otwiera się w przeglądarce, linki do podstron i stron zewnętrznych nie są tak problematyczne, ponieważ użytkownik wciąż znajduje się w jednej "aplikacji", którą jest przeglądarka internetowa.
