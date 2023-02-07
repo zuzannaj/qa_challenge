@@ -43,7 +43,7 @@ The test cases are important for multiple reasons:
 1. Do czego służy ta aplikacja? Jaki jest cel tej aplikacji?
 
 Aplikacja OLX.pl służy przede wszystkim do publikowania i korzystania z ogłoszeń sprzedażowych. Użytkownik może kupić różnego rodzaju produkty, które inni użytkownicy chcą sprzedać. W aplikacji można też przeglądać i publikować oferty pracy. Dostępna jest również kategoria "Dla Ukrainy", gdzie potrzebujące osoby dotknięte wojną w Ukrainie mogą znaleźć darmowe oferty różnego rodzaju produktów oraz nieruchomości.
-Niezalogowany użytkownik może przeglądać ogłoszenia. Zalogowany użytkownik również może przeglądać ogłoszenia, a oprócz tego może dodać ogłoszenia do obserwowanych, wysyłać wiadomości do autorów ogłoszeń oraz dodawać swoje ogłoszenia.
+Niezalogowany użytkownik może przeglądać ogłoszenia i dodawać do obserwowanych ogłoszenia, wyszukiwania i użytkowników.. Zalogowany użytkownik może oprócz tego wysyłać wiadomości do autorów ogłoszeń oraz dodawać swoje ogłoszenia.
 
 2. Kto ma być użytkownikiem końcowym aplikacji?
 
