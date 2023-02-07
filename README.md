@@ -57,7 +57,7 @@ Aplikacja jest umiarkowanie user-friendly - pojawiają się mniejsze błędy w z
 
 4. Jak byś usprawniła aplikację? Co byś w niej poprawiła. Czy masz jakiś pomysł na dodatkową funkcjonalność?
 
-Poprawiłabym wspomniane błędy językowe i inne bugi związane designem interfejsu użytkownika. Dodatkową funkcjonalnością mogłaby być zmiana języka aplikacji na ukraiński (ponieważ fragmenty aplikacji są przeznaczone właśnie dla osób z Ukrainy), a także na angielski (język, który najprawdopodobniej zna duża część osób, które nie mówią po polsku, a miałyby powód, żeby korzystać z polskiej aplikacji).
+Zmieniłabym nazwę strony "Szukaj" na "Główna", "Przeglądaj" lub coś innego o podobnym znaczeniu do angielskiego "Home" lub "Main". Powodem jest to, że na tej stronie wyświetlają się proponowane oferty, a oprócz tego użytkownik może oczekiwać, że stroną główną jest właśnie coś w rodzaju "Home" - poprawiłoby to więc UX. Strona "Szukaj" znajdowałaby obok głównej w dolnej nawigacji i zawierała przede wszystkm dostępne kategorie produktów oraz pasek wyszukiwania. Oprócz tego poprawiłabym wspomniane błędy językowe i inne bugi związane designem interfejsu użytkownika. Dodatkową funkcjonalnością mogłaby być zmiana języka aplikacji na ukraiński (ponieważ fragmenty aplikacji są przeznaczone właśnie dla osób z Ukrainy), a także na angielski (język, który najprawdopodobniej zna duża część osób, które nie mówią po polsku, a miałyby powód, żeby korzystać z polskiej aplikacji).
 
 5. Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej?
 
